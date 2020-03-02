@@ -1,0 +1,20 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [lipo-supply.PrjPcb]
+   Generated File[lipo-supply_Copper_Signal_Top.gbr]
+   Generated File[lipo-supply_Copper_Signal_Bot.gbr]
+   Generated File[lipo-supply_Soldermask_Bot.gbr]
+   Generated File[lipo-supply_Soldermask_Top.gbr]
+   Generated File[lipo-supply_Profile.gbr]
+   Generated File[lipo-supply_NPTH_Drill.gbr]
+   Generated File[lipo-supply_PTH_Drill.gbr]
+   Generated File[lipo-supply_Drillmap_1.gbr]
+   Generated File[lipo-supply.RUL]
+   Generated File[lipo-supply.EXTREP]
+   Generated File[lipo-supply.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 2:58:21 PM On 3/2/2020
